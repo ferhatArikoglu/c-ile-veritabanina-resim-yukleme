@@ -1,0 +1,11 @@
+C:\Users\SERVER\Desktop\fotoğraf yükleme\fotoğraf yükleme\bin\Debug\fotoğraf yükleme.exe.config
+C:\Users\SERVER\Desktop\fotoğraf yükleme\fotoğraf yükleme\bin\Debug\fotoğraf yükleme.exe
+C:\Users\SERVER\Desktop\fotoğraf yükleme\fotoğraf yükleme\bin\Debug\fotoğraf yükleme.pdb
+C:\Users\SERVER\Desktop\fotoğraf yükleme\fotoğraf yükleme\obj\Debug\fotoğraf yükleme.csproj.AssemblyReference.cache
+C:\Users\SERVER\Desktop\fotoğraf yükleme\fotoğraf yükleme\obj\Debug\fotoğraf yükleme.csproj.SuggestedBindingRedirects.cache
+C:\Users\SERVER\Desktop\fotoğraf yükleme\fotoğraf yükleme\obj\Debug\fotoğraf_yükleme.Form1.resources
+C:\Users\SERVER\Desktop\fotoğraf yükleme\fotoğraf yükleme\obj\Debug\fotoğraf_yükleme.Properties.Resources.resources
+C:\Users\SERVER\Desktop\fotoğraf yükleme\fotoğraf yükleme\obj\Debug\fotoğraf yükleme.csproj.GenerateResource.cache
+C:\Users\SERVER\Desktop\fotoğraf yükleme\fotoğraf yükleme\obj\Debug\fotoğraf yükleme.csproj.CoreCompileInputs.cache
+C:\Users\SERVER\Desktop\fotoğraf yükleme\fotoğraf yükleme\obj\Debug\fotoğraf yükleme.exe
+C:\Users\SERVER\Desktop\fotoğraf yükleme\fotoğraf yükleme\obj\Debug\fotoğraf yükleme.pdb
